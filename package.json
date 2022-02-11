@@ -22,7 +22,7 @@
     "chai": "^4.2.0",
     "express": "^4.17.1",
     "glob": "^7.1.6",
-    "karma": "^5.0.1",
+    "karma": "^6.3.14",
     "karma-chrome-launcher": "^3.1.0",
     "karma-coverage": "^2.0.1",
     "karma-jasmine": "^3.1.1",
